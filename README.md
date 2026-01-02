@@ -1,4 +1,4 @@
-# Decision Tree Regression — Housing Price Prediction 
+# Decision Tree Regression - Housing Price Prediction 
 
 ## Overview
 This project explores the use of **Decision Tree Regression** to predict housing prices and more importantly, to understand how decision trees behave under different levels of model complexity.  
